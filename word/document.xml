@@ -1,0 +1,1630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" mc:Ignorable="w14 w15 w16se wp14">
+   <w:body><!-- Modified by docx4j 8.1.6 (Apache licensed) using ECLIPSELINK_MOXy JAXB in Private Build Java 1.8.0_362 on Linux -->
+      <w:tbl>
+         <w:tblPr>
+            <w:tblW w:w="6940" w:type="dxa"/>
+            <w:jc w:val="center"/>
+            <w:tblLook w:firstRow="1" w:lastRow="1" w:firstColumn="1" w:lastColumn="1" w:noHBand="0" w:noVBand="0" w:val="01E0"/>
+         </w:tblPr>
+         <w:tblGrid>
+            <w:gridCol w:w="2907"/>
+            <w:gridCol w:w="4033"/>
+         </w:tblGrid>
+         <w:tr w:rsidRPr="00D54DE0" w:rsidR="00E76912" w:rsidTr="001F182A" w14:paraId="41D72E19" w14:textId="77777777">
+            <w:trPr>
+               <w:trHeight w:val="565"/>
+               <w:jc w:val="center"/>
+            </w:trPr>
+            <w:tc>
+               <w:tcPr>
+                  <w:tcW w:w="2907" w:type="dxa"/>
+               </w:tcPr>
+               <w:p w:rsidRPr="00F27447" w:rsidR="00E76912" w:rsidP="00262C90" w:rsidRDefault="005C330B" w14:paraId="7C4E87E4" w14:textId="77777777">
+                  <w:pPr>
+                     <w:jc w:val="center"/>
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                  </w:pPr>
+                  <w:r w:rsidRPr="00F27447">
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="26"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:tab/>
+                  </w:r>
+                  <w:r w:rsidRPr="00F27447">
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:tab/>
+                  </w:r>
+                  <w:r w:rsidRPr="00F27447" w:rsidR="00D54DE0">
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t>BAN CƠ YẾU CHÍNH PHỦ</w:t>
+                  </w:r>
+               </w:p>
+               <w:p w:rsidRPr="00D54DE0" w:rsidR="00262C90" w:rsidP="00262C90" w:rsidRDefault="00F37C06" w14:paraId="65371ED8" w14:textId="67D64B11">
+                  <w:pPr>
+                     <w:jc w:val="center"/>
+                     <w:rPr>
+                        <w:sz w:val="26"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                  </w:pPr>
+                  <w:r>
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="22"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve"></w:t>
+                  </w:r>
+                  <w:r>
+                     <w:rPr>
+                        <w:rFonts/>
+                        <w:sz w:val="26"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve">HỌC VIỆN KỸ THUẬT MẬT MÃ</w:t>
+                  </w:r>
+                  <w:proofErr w:type="spellStart"/>
+                  <w:proofErr w:type="spellEnd"/>
+                  <w:r>
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="22"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve"></w:t>
+                  </w:r>
+               </w:p>
+            </w:tc>
+            <w:tc>
+               <w:tcPr>
+                  <w:tcW w:w="4033" w:type="dxa"/>
+               </w:tcPr>
+               <w:p w:rsidR="00E76912" w:rsidP="00262C90" w:rsidRDefault="00E76912" w14:paraId="7D0E1A96" w14:textId="77777777">
+                  <w:pPr>
+                     <w:tabs>
+                        <w:tab w:val="center" w:pos="5760"/>
+                     </w:tabs>
+                     <w:jc w:val="center"/>
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="18"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                  </w:pPr>
+                  <w:r w:rsidRPr="00D54DE0">
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="20"/>
+                        <w:szCs w:val="20"/>
+                     </w:rPr>
+                     <w:t>CỘNG</w:t>
+                  </w:r>
+                  <w:r w:rsidRPr="00D54DE0">
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="18"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve"> HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM</w:t>
+                  </w:r>
+               </w:p>
+               <w:p w:rsidRPr="00D54DE0" w:rsidR="00262C90" w:rsidP="00262C90" w:rsidRDefault="001F182A" w14:paraId="0EA7438D" w14:textId="36446961">
+                  <w:pPr>
+                     <w:tabs>
+                        <w:tab w:val="center" w:pos="5760"/>
+                     </w:tabs>
+                     <w:jc w:val="center"/>
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="26"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                  </w:pPr>
+                  <w:r>
+                     <w:rPr>
+                        <w:b/>
+                        <w:noProof/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <mc:AlternateContent>
+                        <mc:Choice Requires="wps">
+                           <w:drawing>
+                              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="false" relativeHeight="251660288" behindDoc="false" locked="false" layoutInCell="true" allowOverlap="true" wp14:anchorId="798B70C5" wp14:editId="6A6711B5">
+                                 <wp:simplePos x="0" y="0"/>
+                                 <wp:positionH relativeFrom="column">
+                                    <wp:posOffset>341240</wp:posOffset>
+                                 </wp:positionH>
+                                 <wp:positionV relativeFrom="paragraph">
+                                    <wp:posOffset>212112</wp:posOffset>
+                                 </wp:positionV>
+                                 <wp:extent cx="1744231" cy="0"/>
+                                 <wp:effectExtent l="0" t="0" r="27940" b="19050"/>
+                                 <wp:wrapNone/>
+                                 <wp:docPr id="8" name="Straight Connector 8" xmlns:dgm1612="http://schemas.microsoft.com/office/drawing/2016/12/diagram" xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" xmlns:lc="http://schemas.openxmlformats.org/drawingml/2006/lockedCanvas" xmlns:pic14="http://schemas.microsoft.com/office/drawing/2010/picture" xmlns:dgm14="http://schemas.microsoft.com/office/drawing/2010/diagram" xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
+                                 <wp:cNvGraphicFramePr xmlns:dgm1612="http://schemas.microsoft.com/office/drawing/2016/12/diagram" xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" xmlns:lc="http://schemas.openxmlformats.org/drawingml/2006/lockedCanvas" xmlns:pic14="http://schemas.microsoft.com/office/drawing/2010/picture" xmlns:dgm14="http://schemas.microsoft.com/office/drawing/2010/diagram" xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
+                                 <a:graphic xmlns:dgm1612="http://schemas.microsoft.com/office/drawing/2016/12/diagram" xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" xmlns:lc="http://schemas.openxmlformats.org/drawingml/2006/lockedCanvas" xmlns:pic14="http://schemas.microsoft.com/office/drawing/2010/picture" xmlns:dgm14="http://schemas.microsoft.com/office/drawing/2010/diagram" xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
+                                    <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                       <wps:wsp>
+                                          <wps:cNvCnPr/>
+                                          <wps:spPr>
+                                             <a:xfrm>
+                                                <a:off x="0" y="0"/>
+                                                <a:ext cx="1744231" cy="0"/>
+                                             </a:xfrm>
+                                             <a:prstGeom prst="line">
+                                                <a:avLst/>
+                                             </a:prstGeom>
+                                          </wps:spPr>
+                                          <wps:style>
+                                             <a:lnRef idx="1">
+                                                <a:schemeClr val="dk1"/>
+                                             </a:lnRef>
+                                             <a:fillRef idx="0">
+                                                <a:schemeClr val="dk1"/>
+                                             </a:fillRef>
+                                             <a:effectRef idx="0">
+                                                <a:schemeClr val="dk1"/>
+                                             </a:effectRef>
+                                             <a:fontRef idx="minor">
+                                                <a:schemeClr val="tx1"/>
+                                             </a:fontRef>
+                                          </wps:style>
+                                          <wps:bodyPr/>
+                                       </wps:wsp>
+                                    </a:graphicData>
+                                 </a:graphic>
+                              </wp:anchor>
+                           </w:drawing>
+                        </mc:Choice>
+                        <mc:Fallback>
+                           <w:pict>
+                              <v:line from="26.85pt,16.7pt" to="164.2pt,16.7pt" style="position:absolute;z-index:251660288;visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text" id="Straight Connector 8" o:spid="_x0000_s1026" strokecolor="black [3200]" strokeweight=".5pt" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:xvml="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:pvml="urn:schemas-microsoft-com:office:powerpoint">
+                                 <v:stroke joinstyle="miter"/>
+                              </v:line>
+                           </w:pict>
+                        </mc:Fallback>
+                     </mc:AlternateContent>
+                  </w:r>
+                  <w:proofErr w:type="spellStart"/>
+                  <w:r w:rsidRPr="00262C90" w:rsidR="00262C90">
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t>Độc</w:t>
+                  </w:r>
+                  <w:proofErr w:type="spellEnd"/>
+                  <w:r w:rsidRPr="00262C90" w:rsidR="00262C90">
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve"> </w:t>
+                  </w:r>
+                  <w:proofErr w:type="spellStart"/>
+                  <w:r w:rsidRPr="00262C90" w:rsidR="00262C90">
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t>lập</w:t>
+                  </w:r>
+                  <w:proofErr w:type="spellEnd"/>
+                  <w:r w:rsidRPr="00262C90" w:rsidR="00262C90">
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve"> – </w:t>
+                  </w:r>
+                  <w:proofErr w:type="spellStart"/>
+                  <w:r w:rsidRPr="00262C90" w:rsidR="00262C90">
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t>Tự</w:t>
+                  </w:r>
+                  <w:proofErr w:type="spellEnd"/>
+                  <w:r w:rsidRPr="00262C90" w:rsidR="00262C90">
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve"> do – </w:t>
+                  </w:r>
+                  <w:proofErr w:type="spellStart"/>
+                  <w:r w:rsidRPr="00262C90" w:rsidR="00262C90">
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t>Hạnh</w:t>
+                  </w:r>
+                  <w:proofErr w:type="spellEnd"/>
+                  <w:r w:rsidRPr="00262C90" w:rsidR="00262C90">
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve"> </w:t>
+                  </w:r>
+                  <w:proofErr w:type="spellStart"/>
+                  <w:r w:rsidRPr="00262C90" w:rsidR="00262C90">
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t>phúc</w:t>
+                  </w:r>
+                  <w:proofErr w:type="spellEnd"/>
+                  <w:r w:rsidRPr="00262C90" w:rsidR="00262C90">
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve"> </w:t>
+                  </w:r>
+               </w:p>
+            </w:tc>
+         </w:tr>
+         <w:tr w:rsidRPr="00D54DE0" w:rsidR="00E76912" w:rsidTr="001F182A" w14:paraId="0B97F4AA" w14:textId="77777777">
+            <w:trPr>
+               <w:trHeight w:val="401"/>
+               <w:jc w:val="center"/>
+            </w:trPr>
+            <w:tc>
+               <w:tcPr>
+                  <w:tcW w:w="2907" w:type="dxa"/>
+               </w:tcPr>
+               <w:p w:rsidRPr="00D10A3D" w:rsidR="00E76912" w:rsidP="00262C90" w:rsidRDefault="001F182A" w14:paraId="77103F8F" w14:textId="73A54B40">
+                  <w:pPr>
+                     <w:tabs>
+                        <w:tab w:val="center" w:pos="1440"/>
+                        <w:tab w:val="center" w:pos="5760"/>
+                     </w:tabs>
+                     <w:jc w:val="center"/>
+                     <w:rPr>
+                        <w:b/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="22"/>
+                     </w:rPr>
+                  </w:pPr>
+                  <w:r>
+                     <w:rPr>
+                        <w:b/>
+                        <w:noProof/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="22"/>
+                     </w:rPr>
+                     <mc:AlternateContent>
+                        <mc:Choice Requires="wps">
+                           <w:drawing>
+                              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="false" relativeHeight="251659264" behindDoc="false" locked="false" layoutInCell="true" allowOverlap="true" wp14:anchorId="1AD806CE" wp14:editId="1B6D588D">
+                                 <wp:simplePos x="0" y="0"/>
+                                 <wp:positionH relativeFrom="column">
+                                    <wp:posOffset>309880</wp:posOffset>
+                                 </wp:positionH>
+                                 <wp:positionV relativeFrom="paragraph">
+                                    <wp:posOffset>-1064</wp:posOffset>
+                                 </wp:positionV>
+                                 <wp:extent cx="1072966" cy="0"/>
+                                 <wp:effectExtent l="0" t="0" r="32385" b="19050"/>
+                                 <wp:wrapNone/>
+                                 <wp:docPr id="6" name="Straight Connector 6" xmlns:dgm1612="http://schemas.microsoft.com/office/drawing/2016/12/diagram" xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" xmlns:lc="http://schemas.openxmlformats.org/drawingml/2006/lockedCanvas" xmlns:pic14="http://schemas.microsoft.com/office/drawing/2010/picture" xmlns:dgm14="http://schemas.microsoft.com/office/drawing/2010/diagram" xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
+                                 <wp:cNvGraphicFramePr xmlns:dgm1612="http://schemas.microsoft.com/office/drawing/2016/12/diagram" xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" xmlns:lc="http://schemas.openxmlformats.org/drawingml/2006/lockedCanvas" xmlns:pic14="http://schemas.microsoft.com/office/drawing/2010/picture" xmlns:dgm14="http://schemas.microsoft.com/office/drawing/2010/diagram" xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart"/>
+                                 <a:graphic xmlns:dgm1612="http://schemas.microsoft.com/office/drawing/2016/12/diagram" xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" xmlns:lc="http://schemas.openxmlformats.org/drawingml/2006/lockedCanvas" xmlns:pic14="http://schemas.microsoft.com/office/drawing/2010/picture" xmlns:dgm14="http://schemas.microsoft.com/office/drawing/2010/diagram" xmlns:c16="http://schemas.microsoft.com/office/drawing/2014/chart" xmlns:dgm="http://schemas.openxmlformats.org/drawingml/2006/diagram" xmlns:c15="http://schemas.microsoft.com/office/drawing/2012/chart">
+                                    <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                       <wps:wsp>
+                                          <wps:cNvCnPr/>
+                                          <wps:spPr>
+                                             <a:xfrm>
+                                                <a:off x="0" y="0"/>
+                                                <a:ext cx="1072966" cy="0"/>
+                                             </a:xfrm>
+                                             <a:prstGeom prst="line">
+                                                <a:avLst/>
+                                             </a:prstGeom>
+                                          </wps:spPr>
+                                          <wps:style>
+                                             <a:lnRef idx="1">
+                                                <a:schemeClr val="dk1"/>
+                                             </a:lnRef>
+                                             <a:fillRef idx="0">
+                                                <a:schemeClr val="dk1"/>
+                                             </a:fillRef>
+                                             <a:effectRef idx="0">
+                                                <a:schemeClr val="dk1"/>
+                                             </a:effectRef>
+                                             <a:fontRef idx="minor">
+                                                <a:schemeClr val="tx1"/>
+                                             </a:fontRef>
+                                          </wps:style>
+                                          <wps:bodyPr/>
+                                       </wps:wsp>
+                                    </a:graphicData>
+                                 </a:graphic>
+                              </wp:anchor>
+                           </w:drawing>
+                        </mc:Choice>
+                        <mc:Fallback>
+                           <w:pict>
+                              <v:line from="24.4pt,-.1pt" to="108.9pt,-.1pt" style="position:absolute;z-index:251659264;visibility:visible;mso-wrap-style:square;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text" id="Straight Connector 6" o:spid="_x0000_s1026" strokecolor="black [3200]" strokeweight=".5pt" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:xvml="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:pvml="urn:schemas-microsoft-com:office:powerpoint">
+                                 <v:stroke joinstyle="miter"/>
+                              </v:line>
+                           </w:pict>
+                        </mc:Fallback>
+                     </mc:AlternateContent>
+                  </w:r>
+               </w:p>
+            </w:tc>
+            <w:tc>
+               <w:tcPr>
+                  <w:tcW w:w="4033" w:type="dxa"/>
+               </w:tcPr>
+               <w:p w:rsidRPr="00B40AE7" w:rsidR="001F182A" w:rsidP="00262C90" w:rsidRDefault="001F182A" w14:paraId="3E5C8A3D" w14:textId="77777777">
+                  <w:pPr>
+                     <w:tabs>
+                        <w:tab w:val="center" w:pos="5760"/>
+                     </w:tabs>
+                     <w:jc w:val="center"/>
+                     <w:rPr>
+                        <w:i/>
+                        <w:noProof/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                  </w:pPr>
+               </w:p>
+               <w:p w:rsidRPr="00B40AE7" w:rsidR="00E76912" w:rsidP="00B40AE7" w:rsidRDefault="00B40AE7" w14:paraId="45633FEB" w14:textId="64813118">
+                  <w:pPr>
+                     <w:tabs>
+                        <w:tab w:val="center" w:pos="5760"/>
+                     </w:tabs>
+                     <w:jc w:val="center"/>
+                     <w:rPr>
+                        <w:i/>
+                        <w:sz w:val="26"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                  </w:pPr>
+                  <w:r w:rsidRPr="00B40AE7">
+                     <w:rPr>
+                        <w:i/>
+                        <w:color w:val="000000"/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="22"/>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve"></w:t>
+                  </w:r>
+                  <w:r>
+                     <w:rPr>
+                        <w:rFonts/>
+                        <w:i/>
+                        <w:sz w:val="26"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve">Hà Nội</w:t>
+                  </w:r>
+                  <w:proofErr w:type="spellStart"/>
+                  <w:proofErr w:type="spellEnd"/>
+                  <w:r w:rsidRPr="00B40AE7">
+                     <w:rPr>
+                        <w:i/>
+                        <w:color w:val="000000"/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="22"/>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve"></w:t>
+                  </w:r>
+                  <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+                  <w:bookmarkEnd w:id="0"/>
+                  <w:r w:rsidRPr="00B40AE7" w:rsidR="00F8340C">
+                     <w:rPr>
+                        <w:i/>
+                        <w:noProof/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="22"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve">, </w:t>
+                  </w:r>
+                  <w:r>
+                     <w:rPr>
+                        <w:rFonts/>
+                        <w:i/>
+                        <w:sz w:val="26"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve">ngày </w:t>
+                  </w:r>
+                  <w:r>
+                     <w:rPr>
+                        <w:rFonts/>
+                        <w:i/>
+                        <w:sz w:val="26"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve">27</w:t>
+                  </w:r>
+                  <w:r>
+                     <w:rPr>
+                        <w:rFonts/>
+                        <w:i/>
+                        <w:sz w:val="26"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve"> tháng </w:t>
+                  </w:r>
+                  <w:r>
+                     <w:rPr>
+                        <w:rFonts/>
+                        <w:i/>
+                        <w:sz w:val="26"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve">06</w:t>
+                  </w:r>
+                  <w:r>
+                     <w:rPr>
+                        <w:rFonts/>
+                        <w:i/>
+                        <w:sz w:val="26"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve"> năm </w:t>
+                  </w:r>
+                  <w:r>
+                     <w:rPr>
+                        <w:rFonts/>
+                        <w:i/>
+                        <w:sz w:val="26"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve">2024</w:t>
+                  </w:r>
+                  <w:r w:rsidRPr="00B40AE7" w:rsidR="00F37C06">
+                     <w:rPr>
+                        <w:i/>
+                        <w:noProof/>
+                        <w:sz w:val="22"/>
+                        <w:szCs w:val="26"/>
+                     </w:rPr>
+                     <w:t xml:space="preserve"></w:t>
+                  </w:r>
+               </w:p>
+            </w:tc>
+         </w:tr>
+      </w:tbl>
+      <w:p w:rsidRPr="00D54DE0" w:rsidR="006C237E" w:rsidP="00447EAD" w:rsidRDefault="006C237E" w14:paraId="6B2D163A" w14:textId="5AB30FA4">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="3360"/>
+               <w:tab w:val="center" w:pos="7002"/>
+            </w:tabs>
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+      </w:p>
+      <w:p w:rsidR="001938FD" w:rsidP="00262C90" w:rsidRDefault="00D95B36" w14:paraId="724355A1" w14:textId="75950587">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="center" w:pos="7002"/>
+            </w:tabs>
+            <w:spacing w:after="120"/>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r w:rsidRPr="00D54DE0">
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>PHIẾU GIẢI QUYẾT CÔNG VĂN</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidRPr="00EC10F0" w:rsidR="00F63845" w:rsidP="00EC10F0" w:rsidRDefault="00D95B36" w14:paraId="1E5977DB" w14:textId="1A4EFF27">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:spacing w:after="60"/>
+            <w:ind w:left="-567"/>
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>Số</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> </w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>đến</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve">: </w:t>
+         </w:r>
+         <w:r w:rsidRPr="00262C90" w:rsidR="00F37C06">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"></w:t>
+         </w:r>
+         <w:r>
+            <w:rPr>
+               <w:rFonts/>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+            </w:rPr>
+            <w:t xml:space="preserve">894</w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00262C90" w:rsidR="00F37C06">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve">, </w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidRPr="00262C90" w:rsidR="00F37C06">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>ngày</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00262C90" w:rsidR="00F37C06">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> </w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidRPr="00262C90" w:rsidR="00F37C06">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>đến</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00262C90" w:rsidR="00F37C06">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>:</w:t>
+         </w:r>
+         <w:r w:rsidR="00EC10F0">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> </w:t>
+         </w:r>
+         <w:r>
+            <w:rPr>
+               <w:rFonts/>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+            </w:rPr>
+            <w:t xml:space="preserve">27</w:t>
+         </w:r>
+         <w:r w:rsidR="00EC10F0">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:noProof/>
+               <w:sz w:val="22"/>
+               <w:szCs w:val="26"/>
+            </w:rPr>
+            <w:t>/</w:t>
+         </w:r>
+         <w:r>
+            <w:rPr>
+               <w:rFonts/>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+            </w:rPr>
+            <w:t xml:space="preserve">06</w:t>
+         </w:r>
+         <w:r w:rsidR="00EC10F0">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:noProof/>
+               <w:sz w:val="22"/>
+               <w:szCs w:val="26"/>
+            </w:rPr>
+            <w:t>/</w:t>
+         </w:r>
+         <w:r>
+            <w:rPr>
+               <w:rFonts/>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+            </w:rPr>
+            <w:t xml:space="preserve">2024</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidRPr="00262C90" w:rsidR="00F63845" w:rsidP="00011854" w:rsidRDefault="00D95B36" w14:paraId="7D2B6032" w14:textId="1F8964AC">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:spacing w:after="60"/>
+            <w:ind w:left="-567"/>
+            <w:jc w:val="both"/>
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>Số</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidR="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve">, </w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidR="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>ký</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidR="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> </w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidR="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>hiệu</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve">: </w:t>
+         </w:r>
+         <w:r w:rsidRPr="00262C90" w:rsidR="00F37C06">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"></w:t>
+         </w:r>
+         <w:r>
+            <w:rPr>
+               <w:rFonts/>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+            </w:rPr>
+            <w:t xml:space="preserve">547/QĐ-BCY</w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidR="00F37C06">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> </w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidR="00F37C06">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>ngày</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00262C90" w:rsidR="00F37C06">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve">: </w:t>
+         </w:r>
+         <w:r>
+            <w:rPr>
+               <w:rFonts/>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+            </w:rPr>
+            <w:t xml:space="preserve">26/06/2024</w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00262C90" w:rsidR="00F37C06">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"></w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidRPr="00262C90" w:rsidR="00F63845" w:rsidP="00011854" w:rsidRDefault="00D95B36" w14:paraId="566B6A1E" w14:textId="7BDB0839">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:spacing w:after="60"/>
+            <w:ind w:left="-567"/>
+            <w:jc w:val="both"/>
+            <w:rPr>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>Cơ</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> </w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>quan</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> </w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>phát</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> </w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>hành</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:i/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>:</w:t>
+         </w:r>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> </w:t>
+         </w:r>
+         <w:r w:rsidRPr="00262C90" w:rsidR="00F37C06">
+            <w:rPr>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"></w:t>
+         </w:r>
+         <w:r>
+            <w:rPr>
+               <w:rFonts/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+            </w:rPr>
+            <w:t xml:space="preserve">Ban Cơ yếu Chính phủ</w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:proofErr w:type="gramStart"/>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00262C90" w:rsidR="00F37C06">
+            <w:rPr>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"></w:t>
+         </w:r>
+         <w:proofErr w:type="gramEnd"/>
+         <w:r>
+            <w:rPr>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+            </w:rPr>
+            <w:t>;</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidRPr="00262C90" w:rsidR="00F63845" w:rsidP="00011854" w:rsidRDefault="00262C90" w14:paraId="74FDA84B" w14:textId="4092E96F">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:spacing w:after="60"/>
+            <w:ind w:left="-567"/>
+            <w:jc w:val="both"/>
+            <w:rPr>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>Trích</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> </w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>yếu</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> </w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>nội</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> dung</w:t>
+         </w:r>
+         <w:r w:rsidRPr="00262C90" w:rsidR="00D95B36">
+            <w:rPr>
+               <w:b/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>:</w:t>
+         </w:r>
+         <w:r w:rsidRPr="00262C90" w:rsidR="00D95B36">
+            <w:rPr>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> </w:t>
+         </w:r>
+         <w:r>
+            <w:rPr>
+               <w:rFonts/>
+               <w:sz w:val="24"/>
+               <w:szCs w:val="26"/>
+            </w:rPr>
+            <w:t xml:space="preserve">TB về việc chuyển trụ sở làm việc</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidR="00E85D2D" w:rsidP="00531764" w:rsidRDefault="00E85D2D" w14:paraId="393BA1D4" w14:textId="7D35DF5F">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:ind w:left="-562"/>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidRPr="00CD19F1">
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>Kính</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00CD19F1">
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> </w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:r w:rsidRPr="00CD19F1">
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>gửi</w:t>
+         </w:r>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r w:rsidRPr="00CD19F1">
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve">: </w:t>
+         </w:r>
+         <w:r w:rsidR="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>Đ/</w:t>
+         </w:r>
+         <w:r w:rsidR="00531764">
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>c</w:t>
+         </w:r>
+         <w:r w:rsidR="00262C90">
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> </w:t>
+         </w:r>
+         <w:r w:rsidRPr="00CD19F1" w:rsidR="00F37C06">
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"></w:t>
+         </w:r>
+         <w:r>
+            <w:rPr>
+               <w:rFonts/>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+            </w:rPr>
+            <w:t xml:space="preserve">Lãnh đạo đơn vị Học viện Kỹ thuật mật mã</w:t>
+         </w:r>
+         <w:r w:rsidRPr="00CD19F1" w:rsidR="00F37C06">
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"></w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidR="00531764" w:rsidP="00531764" w:rsidRDefault="00531764" w14:paraId="0E423B92" w14:textId="291E7481">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:spacing w:before="120" w:after="120" w:line="400" w:lineRule="exact"/>
+            <w:ind w:left="-432" w:right="-533"/>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r>
+            <w:rPr>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>…………………………………………………………………</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidR="00531764" w:rsidP="00531764" w:rsidRDefault="00531764" w14:paraId="1317075A" w14:textId="69B4EF58">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:spacing w:before="120" w:after="120" w:line="400" w:lineRule="exact"/>
+            <w:ind w:left="-432" w:right="-533"/>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r>
+            <w:rPr>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>…………………………………………………………………</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidR="00531764" w:rsidP="00531764" w:rsidRDefault="00531764" w14:paraId="5D4EEFB0" w14:textId="42FC14B3">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:spacing w:before="120" w:after="120" w:line="400" w:lineRule="exact"/>
+            <w:ind w:left="-432" w:right="-533"/>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r>
+            <w:rPr>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>…………………………………………………………………</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidRPr="00011854" w:rsidR="00531764" w:rsidP="00531764" w:rsidRDefault="00531764" w14:paraId="5BB2F49D" w14:textId="7CBDAE1B">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:spacing w:before="120" w:after="120" w:line="400" w:lineRule="exact"/>
+            <w:ind w:left="-432" w:right="-533"/>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r>
+            <w:rPr>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>…………………………………………………………………</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidR="00F37C06" w:rsidP="00F37C06" w:rsidRDefault="00F37C06" w14:paraId="438E97BE" w14:textId="77777777">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:spacing w:after="60" w:line="360" w:lineRule="auto"/>
+            <w:ind w:left="-567"/>
+            <w:jc w:val="right"/>
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r>
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"></w:t>
+         </w:r>
+         <w:r>
+            <w:rPr>
+               <w:rFonts/>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+            </w:rPr>
+            <w:t xml:space="preserve">GIÁM ĐỐC</w:t>
+         </w:r>
+         <w:proofErr w:type="spellStart"/>
+         <w:proofErr w:type="spellEnd"/>
+         <w:r>
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"></w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidR="001F182A" w:rsidP="00E45559" w:rsidRDefault="001F182A" w14:paraId="706A824E" w14:textId="4115D03D">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:spacing w:after="60" w:line="360" w:lineRule="auto"/>
+            <w:ind w:left="-567"/>
+            <w:jc w:val="right"/>
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+      </w:p>
+      <w:p w:rsidR="001F182A" w:rsidP="00531764" w:rsidRDefault="001F182A" w14:paraId="7CF2A945" w14:textId="77777777">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:spacing w:after="60" w:line="360" w:lineRule="auto"/>
+            <w:rPr>
+               <w:b/>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+      </w:p>
+      <w:p w:rsidRPr="00E539CC" w:rsidR="00A12FF7" w:rsidP="00ED3423" w:rsidRDefault="00262C90" w14:paraId="04D1FECA" w14:textId="4D4FBBCC">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:spacing w:after="60" w:line="360" w:lineRule="auto"/>
+            <w:ind w:left="-567"/>
+            <w:jc w:val="both"/>
+            <w:rPr>
+               <w:b/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:val="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r w:rsidRPr="00E539CC">
+            <w:rPr>
+               <w:b/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:val="vi-VN"/>
+            </w:rPr>
+            <w:t>Ý KIẾN</w:t>
+         </w:r>
+         <w:r>
+            <w:rPr>
+               <w:b/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> CHỈ ĐẠO CỦA</w:t>
+         </w:r>
+         <w:r>
+            <w:rPr>
+               <w:b/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:val="vi-VN"/>
+            </w:rPr>
+            <w:t xml:space="preserve"> LÃNH ĐẠO</w:t>
+         </w:r>
+         <w:r w:rsidRPr="00E539CC">
+            <w:rPr>
+               <w:b/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:val="vi-VN"/>
+            </w:rPr>
+            <w:t>:</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidR="00531764" w:rsidP="00A841B1" w:rsidRDefault="00531764" w14:paraId="5AEE970B" w14:textId="77777777">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:spacing w:before="120" w:after="120" w:line="400" w:lineRule="exact"/>
+            <w:ind w:left="-432" w:right="-533"/>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r>
+            <w:rPr>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>…………………………………………………………………</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidR="00531764" w:rsidP="00A841B1" w:rsidRDefault="00531764" w14:paraId="0E2567E0" w14:textId="77777777">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:spacing w:before="120" w:after="120" w:line="400" w:lineRule="exact"/>
+            <w:ind w:left="-432" w:right="-533"/>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r>
+            <w:rPr>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>…………………………………………………………………</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidR="00531764" w:rsidP="00A841B1" w:rsidRDefault="00531764" w14:paraId="4C0EBEE9" w14:textId="77777777">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:spacing w:before="120" w:after="120" w:line="400" w:lineRule="exact"/>
+            <w:ind w:left="-432" w:right="-533"/>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r>
+            <w:rPr>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>…………………………………………………………………</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidRPr="00011854" w:rsidR="00531764" w:rsidP="00A841B1" w:rsidRDefault="00531764" w14:paraId="6CBED5DF" w14:textId="77777777">
+         <w:pPr>
+            <w:tabs>
+               <w:tab w:val="left" w:pos="2835"/>
+            </w:tabs>
+            <w:spacing w:before="120" w:after="120" w:line="400" w:lineRule="exact"/>
+            <w:ind w:left="-432" w:right="-533"/>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r>
+            <w:rPr>
+               <w:bCs/>
+               <w:sz w:val="26"/>
+               <w:szCs w:val="26"/>
+               <w:lang w:eastAsia="vi-VN"/>
+            </w:rPr>
+            <w:t>…………………………………………………………………</w:t>
+         </w:r>
+      </w:p>
+      <w:sectPr w:rsidRPr="00011854" w:rsidR="00531764" w:rsidSect="00531764">
+         <w:footerReference r:id="rId8" w:type="even"/>
+         <w:footerReference r:id="rId9" w:type="default"/>
+         <w:pgSz w:w="8391" w:h="11906" w:code="11"/>
+         <w:pgMar w:top="720" w:right="1134" w:bottom="720" w:left="1701" w:header="720" w:footer="720" w:gutter="0"/>
+         <w:cols w:space="720"/>
+         <w:titlePg/>
+         <w:docGrid w:linePitch="381"/>
+      </w:sectPr>
+   </w:body>
+</w:document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+   <Relationship Target="footer1.xml" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer" Id="rId8"/>
+   <Relationship Target="styles.xml" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Id="rId3"/>
+   <Relationship Target="endnotes.xml" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/endnotes" Id="rId7"/>
+   <Relationship Target="numbering.xml" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/numbering" Id="rId2"/>
+   <Relationship Target="../customXml/item1.xml" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml" Id="rId1"/>
+   <Relationship Target="footnotes.xml" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footnotes" Id="rId6"/>
+   <Relationship Target="theme/theme1.xml" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme" Id="rId11"/>
+   <Relationship Target="webSettings.xml" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/webSettings" Id="rId5"/>
+   <Relationship Target="commentsExtensible.xml" Type="http://schemas.microsoft.com/office/2018/08/relationships/commentsExtensible" Id="rId15"/>
+   <Relationship Target="fontTable.xml" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/fontTable" Id="rId10"/>
+   <Relationship Target="settings.xml" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings" Id="rId4"/>
+   <Relationship Target="footer2.xml" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer" Id="rId9"/>
+</Relationships>
