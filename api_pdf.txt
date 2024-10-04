@@ -1,0 +1,17 @@
+--------------------tài khoản------------------
+ldthuan@bcy.gov.vn
+123456
+
+
+
+
+--------------------api------------------------
+https://backend8181.bcy.gov.vn/api/users/login   ||api đăng nhập
+https://backend8181.bcy.gov.vn/api/users/login?userName=ldthuan@bcy.gov.vn&password=123456 || api đăng nhập đã kèm header
+token: tự render và có thời gian sử dụng , quá thời gian tự render lại tokenAccess
+https://backend8181.bcy.gov.vn/api/hstl/report/menu || thông tin trang menu
+https://backend8181.bcy.gov.vn/api/org/find_all_org
+https://backend8181.bcy.gov.vn/api/document/report_doc_by_type  ||   thông tin báo cáo (số báo cáo (nhận để biết và phối hợp))
+https://backend8181.bcy.gov.vn/api/document/findDocByTypeHandle/2/1?text=&dayLeft=&page=1&sortBy=&direction=DESC&posId=&size=10
+
+
