@@ -1,0 +1,11 @@
+- api  -> lấy được cả những file ko hiển thị lên web
+-> Cần lọc ra những file xuất hiện trên web
+- Hiện tại lấy được file từ máy thầy -> tải về mt của mình
+-> mong muốn: lấy được file -> chuyển sang web của mình luôn ko cần qua bước tải về máy
+- lưu  file trên web của mình -> sd cloud nào??
++ MySQL
++ Cloud -> set quyền truy cập vào Cloud trên mạng nội bộ của thầy -> hỏi thầy????
+- Tiến hành xử lý file: chuyển file từ dạng ko đoc được -> đọc được
+- File sau khi được xử lý -> lưu vào 1 mục riêng
+- Tìm kiếm đa mức
+- Download file về máy

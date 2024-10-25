@@ -1,0 +1,23 @@
+- api  -> lấy được cả những file ko hiển thị lên web
+-> Cần lọc ra những file xuất hiện trên web
+- Hiện tại lấy được file từ máy thầy -> tải về mt của mình
+-> mong muốn: lấy được file -> chuyển sang web của mình luôn ko cần qua bước tải về máy
+- lưu  file trên web của mình -> sd cloud nào??
++ MySQL
++ Cloud -> set quyền truy cập vào Cloud trên mạng nội bộ của thầy -> hỏi thầy????
+- Tiến hành xử lý file: chuyển file từ dạng ko đoc được -> đọc được
+- File sau khi được xử lý -> lưu vào 1 mục riêng
+- Tìm kiếm đa mức
+- Download file về máy
+----------------------------------
+Đăng nhập -> 2 loại tk 
+1. Dành cho tk của thầy (nội bộ)
+	- Tự động tải file từ bên web nội bộ của thầy -> sang web của mình (update tự động theo ngày (23h59p) - tạm thời chưa tiến hành)
+	- nút update: khi nhấn -> chọn khoảng thời gian -> tiến update 
+		+ Hiển thị thời gian update gần nhất (thời gian của file - thông tin thời gian trên file được gửi về trên máy thầy) -> lưu lại ở 1 kho dữ liệu gốc
+	- nút convert: chuyển pdf ko chỉnh sửa được -> có thể chỉnh sửa -> lưu lại ở kho 2 
+	- thanh tìm kiếm: theo tên, hoặc nd file
+2. Dành cho tk của user bình thường
+	- chuyển file pdf -> word
+	- pdf (dạng ko chỉnh sửa được) -> Có thể chỉnh sửa được
+	- Ảnh -> text
